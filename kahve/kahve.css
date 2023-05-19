@@ -1,0 +1,29 @@
+body{ 
+background-image: url(../imagekahve/2023-03-25_08-12.png);
+padding: 20px; 
+font-family: sans-serif;
+} 
+.menu{
+font-size: 20px;
+   background-color: burlywood;
+   width: 70%;
+   height: auto;
+   /* margin: auto; */
+   border-radius: 20px;
+   margin-left: auto;
+   margin-right: auto; 
+padding: 30px; 
+   text-align: center;
+   /* margin-bottom: -30px; */
+}
+.footer{
+    padding: 20px;
+}
+ #link{
+    border: 2px solid border;
+    border-radius: 10px;
+    background-color:black;
+    padding: 10px;
+    color: white;
+ }  
+ 
